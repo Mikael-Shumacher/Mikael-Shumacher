@@ -1,5 +1,5 @@
 # 🧑 About Me:
-Me chamo Mikael Shumacher e no momento estou trabalhando com projetos pessoais, de forma freelancer.<br> 
+Me chamo Mikael Shumacher e no momento estou trabalhando com projetos pessoais, freelancer.<br> 
 
 
 ## 🌐 Socials:

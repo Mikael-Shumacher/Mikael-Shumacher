@@ -6,8 +6,8 @@
     <a href="https://twitter.com/https://twitter.com/Mike_Shumacher"><img width="50px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
     <a href="https://youtube.com/@https://www.youtube.com/channel/UCOoUTHxnubxA8ktz8oMPKCw"><img width="50px" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
     <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/ea62091b-f3ab-4f9d-8c88-4e1f2800e6a4"></a>
-    <a href="#"><img src=""></a>
-    <a href="#"><img src=""></a>
+    <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/72f4670b-5d60-4555-8764-39a6fc78fee4"></a>
+    <a href="#"><img width="50px" src=""></a>
   
   </nav>
 </header>

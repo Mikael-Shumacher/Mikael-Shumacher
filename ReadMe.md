@@ -1,9 +1,9 @@
 <img width="1000" height="400" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/blob/main/21116158daaeb1459b4ec0758505e1ad.gif">
 <h1 style="text-align: center"><img width="30px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d56701f9-b7e2-48f6-a529-c637e7d60069"><i>ᗰIKᗩᕮᒪ Sᕼᑌᗰᗩᑕᕼᕮᖇ</i></h1>
 
-<h2 style="text-align: center">𝐀𝐛𝐨𝐮𝐭:</h2>
+<h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/275941fc-fb24-44c6-880f-25b609e6b5b5"> - Sobre:</h2>
 
-<h2 style="text-align: center"><img width="30px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/83798bf1-ded9-4330-bcbf-53e12bc3b958">𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚:</h2>
+<h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/42492358-e3c6-4d21-8142-0dec9429a77a"> - 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚:</h2>
 <a href="https://discord.gg/godzin07"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/9dfc588b-a07f-40dc-bd06-9aae0f28dd6d"></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/mikael-shumacher-59b860252"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/1fb8a73b-3b89-40c1-8f94-2aac13d75195"></a>
 <a href="https://twitter.com/https://twitter.com/Mike_Shumacher"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/18183bd6-13af-4350-bcff-6ee7147565f2"></a>
@@ -13,10 +13,10 @@
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/03b9a54b-0220-41e5-b36f-d0d9c41a40cf"></a>
 
 
-<h2 style="text-align: center">𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:</h2>
+<h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/356e7c66-c01a-4a9a-a9c5-b685e05fb69e"> - Tecnologias:</h2>
 
 
-<h2 style="text-align: center">𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:</h2>
+<h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/73274a71-d984-415f-bc1f-a46cae0c0881"> - 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:</h2>
 
 <img width="2000" height="250" src="/giphy.gif">
 

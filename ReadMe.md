@@ -1,6 +1,15 @@
 <header style="background-color: rgba(37, 37, 39, 0.849)">
   <h1 style=text-align: center><img width="200px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d56701f9-b7e2-48f6-a529-c637e7d60069"><i>ᗰIKᗩᕮᒪ Sᕼᑌᗰᗩᑕᕼᕮᖇ</i></h1>
-  <nav><a href="https://discord.gg/godzin07"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a></nav>
+  <nav>
+    <a href="https://discord.gg/godzin07"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/mikael-shumacher-59b860252"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/https://twitter.com/Mike_Shumacher"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
+    <a href="https://youtube.com/@https://www.youtube.com/channel/UCOoUTHxnubxA8ktz8oMPKCw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+    <a href="#"><img src=""></a>
+    <a href="#"><img src=""></a>
+    <a href="#"><img src=""></a>
+  
+  </nav>
 </header>
 Sou Mikael Shumacher e no momento estou trabalhando com projetos pessoais, freelancer.<br> 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/godzin07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mikael-shumacher-59b860252) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Mike_Shumacher) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCOoUTHxnubxA8ktz8oMPKCw) 

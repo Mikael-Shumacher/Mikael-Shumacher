@@ -1,5 +1,5 @@
 <header>
-  <h1><i>Mikael Shumacher</i></h1>
+  <h1 style=text-align:center><i>Mikael Shumacher</i></h1>
   <nav><a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a></nav>
 </header>
 Sou Mikael Shumacher e no momento estou trabalhando com projetos pessoais, freelancer.<br> 

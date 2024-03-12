@@ -15,17 +15,17 @@
 
 
 <h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/8b72039e-c4e2-4078-b95f-a9af43ae97e9"> - Tecnologias:</h2>
+<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5d6ab96d-4288-4f81-a73e-2ecdedba25d6"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d6bc58cb-9659-48fb-b2e6-2a4b6a6d36f8"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/fd182ba2-920a-4f68-8643-38797e885243"></a>
-<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/6f93d48c-94c0-4491-9b30-edae99200e04"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d0466735-004c-495a-8a20-cecc36e2a4ba"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/48aa13af-0c99-4050-b322-4f21e7d58e44"></a>
-<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/93948bc4-9887-4c50-a55b-de2ffaee743f"></a>
-<a href="#"><img width="50px" src=""></a>
-<a href="#"><img width="50px" src=""></a>
+<a href="#"><img width="40px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/7bd1c38e-9760-4b21-9ab8-5078aa3ab5c9"></a>
+<a href="#"><img width="40px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/e535372f-b276-41b5-8b51-1a6be60473f6"></a>
+<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 
 <h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/73274a71-d984-415f-bc1f-a46cae0c0881"> - Mais Informações:</h2>
 

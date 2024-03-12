@@ -2,7 +2,7 @@
   <h1 style=text-align: center><img width="200px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d56701f9-b7e2-48f6-a529-c637e7d60069"><i>ᗰIKᗩᕮᒪ Sᕼᑌᗰᗩᑕᕼᕮᖇ</i></h1>
   <nav>
     <a href="https://discord.gg/godzin07"><img width="50px" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-    <a href="https://linkedin.com/in/www.linkedin.com/in/mikael-shumacher-59b860252"><img width="50px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/mikael-shumacher-59b860252"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/1fb8a73b-3b89-40c1-8f94-2aac13d75195"></a>
     <a href="https://twitter.com/https://twitter.com/Mike_Shumacher"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/18183bd6-13af-4350-bcff-6ee7147565f2"></a>
     <a href="https://youtube.com/@https://www.youtube.com/channel/UCOoUTHxnubxA8ktz8oMPKCw"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/47bc5e5c-e24a-42a1-acf6-8dbb0620e24f"></a>
     <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/ea62091b-f3ab-4f9d-8c88-4e1f2800e6a4"></a>

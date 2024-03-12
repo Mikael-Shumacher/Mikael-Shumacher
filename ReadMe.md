@@ -1,4 +1,4 @@
-<img width="1000" height="400" src="">
+<img width="1000" height="400" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/blob/main/21116158daaeb1459b4ec0758505e1ad.gif">
 <h1 style="text-align: center"><img width="30px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d56701f9-b7e2-48f6-a529-c637e7d60069"><i>ᗰIKᗩᕮᒪ Sᕼᑌᗰᗩᑕᕼᕮᖇ</i></h1>
 
 <h2 style="text-align: center">𝐀𝐛𝐨𝐮𝐭:</h2>
@@ -18,5 +18,5 @@
 
 <h2 style="text-align: center">𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:</h2>
 
-<img width="2000" height="250" src="/imgs/giphy.gif">
+<img width="2000" height="250" src="/giphy.gif">
 

@@ -2,7 +2,7 @@
 <header>
   <h1 style="text-align: center"><img width="30px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d56701f9-b7e2-48f6-a529-c637e7d60069"><i>ᗰIKᗩᕮᒪ Sᕼᑌᗰᗩᑕᕼᕮᖇ</i></h1>
   <nav style="background-color: rgba(37, 37, 39, 0.849)">
-    <h2 style="text-align: center"><img width="30px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d56701f9-b7e2-48f6-a529-c637e7d60069"><i>Redes sociais</i></h2>
+    <h2 style="text-align: center"><em>Redes sociais</em></h2>
     <a href="https://discord.gg/godzin07"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/9dfc588b-a07f-40dc-bd06-9aae0f28dd6d"></a>
     <a href="https://linkedin.com/in/www.linkedin.com/in/mikael-shumacher-59b860252"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/1fb8a73b-3b89-40c1-8f94-2aac13d75195"></a>
     <a href="https://twitter.com/https://twitter.com/Mike_Shumacher"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/18183bd6-13af-4350-bcff-6ee7147565f2"></a>

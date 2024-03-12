@@ -1,4 +1,4 @@
-<h1><i>Mikael Shumacher</i></h1>
+<header><h1><i>Mikael Shumacher</i></h1></header>
 Sou Mikael Shumacher e no momento estou trabalhando com projetos pessoais, freelancer.<br> 
 
 

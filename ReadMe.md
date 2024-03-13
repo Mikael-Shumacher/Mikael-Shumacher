@@ -16,7 +16,6 @@
 
 <h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/8b72039e-c4e2-4078-b95f-a9af43ae97e9"> - Tecnologias:</h2>
 <img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
-<a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/981acfaf-aafe-46f7-8cf5-4695ffd193bb"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5d6ab96d-4288-4f81-a73e-2ecdedba25d6"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d6bc58cb-9659-48fb-b2e6-2a4b6a6d36f8"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/fd182ba2-920a-4f68-8643-38797e885243"></a>

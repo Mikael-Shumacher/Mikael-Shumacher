@@ -1,3 +1,4 @@
+<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&color=ff0000&width=700&height=30&duration=2000&lines=+ᗰIKᗩᕮᒪ+Sᕼᑌᗰᗩᑕᕼᕮᖇ;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;" /> 
 <img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">

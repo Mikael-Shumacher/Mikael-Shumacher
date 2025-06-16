@@ -23,11 +23,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mikael-Shumacher&bg_color=0d1117&color=ff0000&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-
-
-<h1></h1>
-
-
 <div align="center">
 <img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5d6ab96d-4288-4f81-a73e-2ecdedba25d6"></a>
@@ -42,5 +37,6 @@
 <img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 </div>
 
+<h1></h1>
 <img width="2000" height="250" src="/giphy.gif">
 

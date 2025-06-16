@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=30&duration=2000&lines=ᗰIKᗩᕮᒪ+Sᕼᑌᗰᗩᑕᕼᕮᖇ<;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;" /> 
-<h1 style="text-align: center"><img width="30px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/d56701f9-b7e2-48f6-a529-c637e7d60069"><i>ᗰIKᗩᕮᒪ Sᕼᑌᗰᗩᑕᕼᕮᖇ</i></h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=30&duration=2000&lines=+ᗰIKᗩᕮᒪ+Sᕼᑌᗰᗩᑕᕼᕮᖇ;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;" /> 
 
 <h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/275941fc-fb24-44c6-880f-25b609e6b5b5"> - About:</h2>
 <div align="center">  

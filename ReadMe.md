@@ -1,9 +1,10 @@
-<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&color=ff0000&width=700&height=30&duration=2000&lines=+ᗰIKᗩᕮᒪ+Sᕼᑌᗰᗩᑕᕼᕮᖇ;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;" /> 
 </h1>
-<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
+
 <div align="center" >
+<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 <a href="https://discord.gg/godzin07"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/9dfc588b-a07f-40dc-bd06-9aae0f28dd6d"></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/mikael-shumacher-59b860252"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/1fb8a73b-3b89-40c1-8f94-2aac13d75195"></a>
 <a href="https://twitter.com/https://twitter.com/Mike_Shumacher"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/18183bd6-13af-4350-bcff-6ee7147565f2"></a>
@@ -12,6 +13,7 @@
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/72f4670b-5d60-4555-8764-39a6fc78fee4"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/eeb9241f-c28c-4dac-acf6-c57f29fee875"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/03b9a54b-0220-41e5-b36f-d0d9c41a40cf"></a>
+<img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 </div>
 <h2 color=ff0000 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/275941fc-fb24-44c6-880f-25b609e6b5b5"> - About:</h2>
 <div align="center">  

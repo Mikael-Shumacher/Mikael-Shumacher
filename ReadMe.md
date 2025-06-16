@@ -4,13 +4,13 @@
 <h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/275941fc-fb24-44c6-880f-25b609e6b5b5"> - About:</h2>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mikael-Shumacher&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&title_color=7916fa&icon_color=7916fa&text_color=c9d1d9&bg_color=0d1117" alt="Mikael Shumacher github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Shumacher&layout=compact&hide_border=true&include_all_commits=true&count_private=true&title_color=7916fa&text_color=faf7fc&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Shumacher&layout=compact&hide_border=true&include_all_commits=true&count_private=true&title_color=7916fa&text_color=faf7fc&bg_color=ff0000" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mikael-Shumacher&bg_color=0d1117&color=7916fa&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
-<h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/42492358-e3c6-4d21-8142-0dec9429a77a"> - Mídias Sociais:</h2>
+<h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/42492358-e3c6-4d21-8142-0dec9429a77a"> - Conta:</h2>
 <img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 <a href="https://discord.gg/godzin07"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/9dfc588b-a07f-40dc-bd06-9aae0f28dd6d"></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/mikael-shumacher-59b860252"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/1fb8a73b-3b89-40c1-8f94-2aac13d75195"></a>
@@ -36,8 +36,6 @@
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/7bd1c38e-9760-4b21-9ab8-5078aa3ab5c9"></a>
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/e535372f-b276-41b5-8b51-1a6be60473f6"></a>
 <img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
-
-<h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/73274a71-d984-415f-bc1f-a46cae0c0881"> - Mais Informações:</h2>
 
 <img width="2000" height="250" src="/giphy.gif">
 

@@ -15,7 +15,6 @@
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/03b9a54b-0220-41e5-b36f-d0d9c41a40cf"></a>
 <img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 </div>
-<h2 color=ff0000 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/275941fc-fb24-44c6-880f-25b609e6b5b5"> - About:</h2>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mikael-Shumacher&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=ffffff&text_color=ff0000&bg_color=0d1117" alt="Mikael Shumacher github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Shumacher&layout=compact&hide_border=true&include_all_commits=true&count_private=true&title_color=ff0000&text_color=ffffff&bg_color=0b1117"/>

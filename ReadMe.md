@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Shumacher&layout=compact&hide_border=true&include_all_commits=true&count_private=true&title_color=ff0000&text_color=ffffff&bg_color=0b1117"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mikael-Shumacher&bg_color=0d1117&color=7916fa&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mikael-Shumacher&bg_color=0d1117&color=ff0000&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
 <h2 style="text-align: center"><img width="20px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/42492358-e3c6-4d21-8142-0dec9429a77a"> - Conta:</h2>

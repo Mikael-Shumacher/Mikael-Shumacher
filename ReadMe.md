@@ -2,9 +2,10 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&color=ff0000&width=700&height=30&duration=2000&lines=+ᗰIKᗩᕮᒪ+Sᕼᑌᗰᗩᑕᕼᕮᖇ;+C+;+Python;+Javascript;" /> 
 </h1>
-
 <div align="center">
-<a href="#"> My website</a>
+  <a href="#"> My website</a>
+</div>
+<div align="center">
 <a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/03b9a54b-0220-41e5-b36f-d0d9c41a40cf"></a>
 </div>
 

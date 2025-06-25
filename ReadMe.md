@@ -4,7 +4,8 @@
 </h1>
 
 <div align="center">
-<a href="#"> My website <img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/03b9a54b-0220-41e5-b36f-d0d9c41a40cf"></a>
+<a href="#"> My website</a>
+<a href="#"><img width="50px" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/03b9a54b-0220-41e5-b36f-d0d9c41a40cf"></a>
 </div>
 
 <div align="center" >

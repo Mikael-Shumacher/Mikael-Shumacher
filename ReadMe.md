@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&color=ff0000&width=700&height=30&duration=2000&lines=+ᗰIKᗩᕮᒪ+Sᕼᑌᗰᗩᑕᕼᕮᖇ;+C+;+Python;+Javascript;" /> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&color=0000CD&width=700&height=30&duration=2000&lines=+ᗰIKᗩᕮᒪ+Sᕼᑌᗰᗩᑕᕼᕮᖇ;+C+;+Python;+Javascript;" /> 
 </h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&color=ff0000&width=700&height=30&duration=2000&lines=+MY;+WEBSITE;" /> 

@@ -21,8 +21,8 @@
 <img width="30" src="https://github.com/Mikael-Shumacher/Mikael-Shumacher/assets/87154081/5da15ad8-c8c6-4f1f-9aad-9696a42c2726">
 </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mikael-Shumacher&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ff0000&icon_color=ffffff&text_color=0000FF&bg_color=0d1117" alt="Mikael Shumacher github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Shumacher&layout=compact&hide_border=true&include_all_commits=true&count_private=true&title_color=ff0000&text_color=0000FF&bg_color=0b1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mikael-Shumacher&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&title_color=DCDCDC&icon_color=ffffff&text_color=0000FF&bg_color=0d1117" alt="Mikael Shumacher github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Shumacher&layout=compact&hide_border=true&include_all_commits=true&count_private=true&title_color=DCDCDC&text_color=0000FF&bg_color=0b1117"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mikael-Shumacher&bg_color=0d1117&color=ff0000&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

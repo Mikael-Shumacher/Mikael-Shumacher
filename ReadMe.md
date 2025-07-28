@@ -1,4 +1,4 @@
-<\br>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&color=e01b24&width=700&height=30&duration=2000&lines=+ᗰIKᗩᕮᒪ+Sᕼᑌᗰᗩᑕᕼᕮᖇ;+C+;+Python;+Javascript;" /> 
 </h1>
